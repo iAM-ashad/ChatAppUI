@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatAppUI</string>
+    <string name="get_started">Get Started</string>
+    <string name="okay">Okay</string>
+    <string name="_12_23_pm">12:23 PM</string>
+    <string name="add_story">Add Story</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="ashad">Ashad</string>
+    <string name="secure_private_messaging">Secure and Private Messaging</string>
+    <string name="stay_with_your_friends">Stay with your friends</string>
+    <string name="type_message">Type a message</string>
+    <string name="online">Online</string>
+</resources>
